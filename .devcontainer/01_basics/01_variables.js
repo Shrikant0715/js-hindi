@@ -2,7 +2,7 @@ const accountId = 144532
 let accountEmail = "shrikantgaikwad0715@gmail.com"
 var accountPassword = "12345"
 accountCity = "Pune"
-let accountState;
+let accountState = "abc"
 
 //accountId = 2 //not allowed
  
@@ -10,6 +10,7 @@ let accountState;
 accountEmail = "hc@hc.com"
 accountpassword = "212121233"
 accountCity = "hadpsar"
+accountState = "shree"
 
 console.log(accountId);
 /* 
